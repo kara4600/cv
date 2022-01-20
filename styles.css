@@ -1,0 +1,141 @@
+
+body {
+    background-color: #FFF9F9;
+    margin: 0px;
+    padding-bottom: 0px;
+    text-align: center;
+    font-family: 'Libre Caslon Text', serif;
+    font-size: 1.25em;
+    font-weight: 400;
+}
+
+h1 {
+    margin: 0 auto 0 auto;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+h3 {
+    font-style: italic;
+}
+
+hr {
+    height: 0px;
+    width: 5%;
+    border-top: 8px;
+    border-style: dotted none none;
+    color: #333;
+    background-color: #FFF9F9;
+}
+
+/* Class Selectors */
+
+.field {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.maindiv {
+    position: relative;
+    bottom: 0;
+    font-family: 'Caveat', cursive;
+    font-size: 1.65em;
+    margin: auto;
+    padding: 20px;
+    padding-bottom: 0px;
+    background-color: #EEF2FF;
+}
+
+.body-div {
+    text-align: left;
+    width: 55%;
+    margin: 10px auto;
+}
+
+.body-img {
+    float: left;
+    padding-right: 30px;
+    width: 23%;
+}
+
+.expdiv {
+    margin: 25px auto;
+    padding-top: 5%;
+    padding-bottom: 7%;
+}
+
+
+.skillsdiv {
+    margin: 25px auto;
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.cloud {
+    padding-top: 7%;
+    padding-bottom: 7%;
+    padding-left: 11%;
+    padding-right: 11%;
+}
+
+.mountain {
+    bottom: 0;
+    padding-top: 60px;
+    width: 35%;
+}
+
+.contact-me {
+    margin: auto;
+    padding: 20px;
+}
+
+.contact-me h2 {
+    font-family: 'Caveat', cursive;
+    font-size: 2.2em;
+    margin: 0;
+    padding-bottom: 25px;
+}
+
+    /*background-color: #FBACCC;*/
+.bottom-container {
+    margin: auto;
+    padding: 20px;
+    background-color: #BEDCFA;
+}
+
+.btn {
+    background-color: #b47bff;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+
+.btn:hover {
+    color: white;
+    background-color: #cea9ff; 
+}
+
+.footer-link {
+    background-color: #4992ff;
+    border: none;
+    color: white;
+    padding: 5px 9px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+
+.footer-link:hover {
+    color: white;
+    background-color: #7eb2ff;
+}
+
